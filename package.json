@@ -1,0 +1,18 @@
+{
+  "name": "redux-shared-store",
+  "version": "1.0.0",
+  "description": "Shared redux store for mainset boilerplates",
+  "main": "src/index.js",
+  "repository": "git@github.com:mainset/redux-shared-store.git",
+  "author": "Yevhen Uzhva <yevhen.uzhva@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "peerDependencies": {
+    "connected-react-router": "^6.3.2",
+    "history": "^4.9.0",
+    "immutable": "^4.0.0-rc.12",
+    "redux": "^4.0.1",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-saga": "^1.0.2"
+  }
+}
