@@ -1,0 +1,3 @@
+export const FETCH_WELCOME_DATA = 'sharedExample/FETCH_WELCOME_DATA';
+export const FETCH_WELCOME_DATA_SUCCESS = 'sharedExample/FETCH_WELCOME_DATA_SUCCESS';
+export const FETCH_WELCOME_DATA_ERROR = 'sharedExample/FETCH_WELCOME_DATA_ERROR';
